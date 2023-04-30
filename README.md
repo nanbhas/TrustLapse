@@ -7,7 +7,7 @@ This repository contains the code for the paper: <br>
 - Published at: IEEE Transactions on Artificial Intelligence (IEEE-TAI)
 
 <p align="center">
-    <img src="docs/TrustLapse_overview.png" width="800"> <br>
+    <img src="docs/TrustLapse_overview.PNG" width="800"> <br>
 </p>
 
 
